@@ -7,4 +7,4 @@
 
 ![Sunny's github stats](https://github-readme-stats.vercel.app/api?username=mishrasunny174)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mishrasunny174&layout=compact&hide=html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mishrasunny174&layout=compact&hide=html,smali)
