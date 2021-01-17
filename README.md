@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi 👋, I am Sunny Mishra (AKA codacker) 
 
 - 🔭 I’m currently pursuing M.Sc. Computer Science from South Asian University.
 - 🌱 I’m currently learning Reverse Engineering and Exploit Development.
