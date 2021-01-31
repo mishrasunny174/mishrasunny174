@@ -1,7 +1,7 @@
 # Hi 👋, I am Sunny Mishra (AKA codacker) 
 
 - 🔭 I’m currently pursuing M.Sc. Computer Science from South Asian University.
-- 🌱 I like to do learning Reverse Engineering and Exploit Development.
+- 🌱 I like to do Reverse Engineering and Exploit Development.
 - 💣 CTF player @ [zh3r0](https://www.zh3r0.com/)
 - 💬 Ask me about Cybersecurity
 - 📫 How to reach me: [https://mishrasunny174.tech](https://mishrasunny174.tech)
