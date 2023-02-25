@@ -1,6 +1,6 @@
 # Hi 👋, I am Sunny Mishra (AKA codacker) 
 
-- 🔭 I’m currently pursuing M.Sc. Computer Science from South Asian University.
+- 🔭 I’m currently working as a DevSecOps Engineer for Fintech Company.
 - 🥋 Blue Belt in Hacking [PwnCollege](https://pwn.college/belts)
 - 🌱 I like to do Reverse Engineering and Exploit Development.
 - 💣 CTF player @ [zh3r0](https://www.zh3r0.com/)
